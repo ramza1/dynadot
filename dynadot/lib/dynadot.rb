@@ -18,8 +18,9 @@ module Dynadot
     query.merge!(args)
 
     a = options.merge!({ :query => query, :basic_auth => @auth })
-    #result = self.class.get('/api3.xml', options)
-    #result = result.to_hash['dynadotresult']['data']
+    result = self.class.get('/api3.xml', options)
+    puts result
+    result = result.to_hash['dynadotresult']['data']
   end
 
 
@@ -28,7 +29,7 @@ module Dynadot
      basic_info = {
          domain1:  "Mydomain.net"
      }
-       puts test_basic.api("search", "mydomain.com", )
+    test_basic.api("search", "mydomain.com", )
   end
  end
 
