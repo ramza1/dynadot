@@ -31,19 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dynadot.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dynadot.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="7" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="7" column="59" selection-start="186" selection-end="186" vertical-scroll-proportion="0.1688103" vertical-offset="0" max-vertical-offset="622">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dynadot.gemspec" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="dynadot.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynadot.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="616" selection-end="616" vertical-scroll-proportion="0.45819935" vertical-offset="0" max-vertical-offset="622">
+            <state line="19" column="4" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,10 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="13" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <folding />
+              <folding>
+                <marker date="1403347906074" expanded="true" signature="31:233" placeholder="#..." />
+                <marker date="1403347906074" expanded="true" signature="243:531" placeholder="#..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,8 +103,8 @@
         <option value="$PROJECT_DIR$/lib/dynadot/command_line.rb" />
         <option value="$PROJECT_DIR$/lib/generators/dynadot/install_generator.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/dynadot.rb" />
-        <option value="$PROJECT_DIR$/lib/dynadot.rb" />
         <option value="$PROJECT_DIR$/dynadot.gemspec" />
+        <option value="$PROJECT_DIR$/lib/dynadot.rb" />
       </list>
     </option>
   </component>
@@ -164,7 +167,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../domain-name" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -298,7 +301,10 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="13" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
+          <folding>
+            <marker date="1403347906074" expanded="true" signature="31:233" placeholder="#..." />
+            <marker date="1403347906074" expanded="true" signature="243:531" placeholder="#..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -330,16 +336,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
+    <entry file="file://$PROJECT_DIR$/dynadot.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state line="19" column="4" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dynadot.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="616" selection-end="616" vertical-scroll-proportion="0.45819935" vertical-offset="0" max-vertical-offset="622">
+        <state line="7" column="59" selection-start="186" selection-end="186" vertical-scroll-proportion="0.1688103" vertical-offset="0" max-vertical-offset="622">
           <folding />
         </state>
       </provider>
