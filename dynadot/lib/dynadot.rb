@@ -9,7 +9,7 @@ module Dynadot
   end
 
   def api(cmd, params, args={})
-    query = { :key => @auth[:username],
+    query = { :key => @auth[:key],
               :command => cmd,
               :domain0 => params,
     }

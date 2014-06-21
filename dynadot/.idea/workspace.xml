@@ -34,7 +34,7 @@
       <file leaf-file-name="dynadot.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="4" selection-start="697" selection-end="697" vertical-scroll-proportion="0.7475884" vertical-offset="0" max-vertical-offset="645">
+            <state line="11" column="32" selection-start="258" selection-end="258" vertical-scroll-proportion="0.2652733" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -362,7 +362,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="4" selection-start="697" selection-end="697" vertical-scroll-proportion="0.7475884" vertical-offset="0" max-vertical-offset="645">
+        <state line="11" column="32" selection-start="258" selection-end="258" vertical-scroll-proportion="0.2652733" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
