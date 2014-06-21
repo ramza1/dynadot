@@ -23,7 +23,7 @@ module Dynadot
   end
 
 
-  def search_domain(params)
+  def self.search_domain(params)
      test_basic = Api3.new
      basic_info = {
          domain1:  "Mydomain.net"
