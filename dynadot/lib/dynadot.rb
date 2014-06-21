@@ -3,7 +3,7 @@ module Dynadot
   include HTTParty
   base_uri "https://api.dynadot.com"
 
-  DYNADOT_KEY = "test" unless defined? DYNADOT_KEY
+  #DYNADOT_KEY = "test" unless defined? DYNADOT_KEY
   def initialize
     @auth = {:key => DYNADOT_KEY}
   end
