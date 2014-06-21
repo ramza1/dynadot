@@ -34,7 +34,16 @@
       <file leaf-file-name="dynadot.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="45" selection-end="45" vertical-scroll-proportion="0.048231512" vertical-offset="0" max-vertical-offset="622">
+            <state line="19" column="66" selection-start="443" selection-end="443" vertical-scroll-proportion="0.45819935" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/lib/generators/dynadot/install_generator.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/dynadot.rb" />
         <option value="$PROJECT_DIR$/dynadot.gemspec" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/lib/dynadot.rb" />
       </list>
     </option>
@@ -343,9 +353,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/dynadot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="45" selection-end="45" vertical-scroll-proportion="0.048231512" vertical-offset="0" max-vertical-offset="622">
+        <state line="19" column="66" selection-start="443" selection-end="443" vertical-scroll-proportion="0.45819935" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>

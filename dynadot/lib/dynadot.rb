@@ -1,13 +1,34 @@
 module Dynadot
  class Api3
   include HTTParty
+  base_uri "https://api.dynadot.com"
+
+  DYNADOT_KEY = "test" unless defined? DYNADOT_KEY
   def initialize
-   @api_key = DYNADOT_KEY if defined? DYNADOT_KEY
+    @auth = {:key => DYNADOT_KEY}
   end
-  base_uri "https://api.dynadot.com/api3.xml?key=#{@api_key}"
+
+  def api(cmd, params, args={})
+    query = { :key => @auth[:username],
+              :command => cmd,
+              :domain0 => params,
+    }
+
+    options = {}
+    query.merge!(args)
+
+    a = options.merge!({ :query => query, :basic_auth => @auth })
+    #result = self.class.get('/api3.xml', options)
+    #result = result.to_hash['dynadotresult']['data']
+  end
+
 
   def search_domain(params)
-     self.class.get("&command=search&domain0=#{params}&domain1=#{params}.net&domain2=#{params}.ng&domain3=#{params}.me")
+     test_basic = Api3.new
+     basic_info = {
+         domain1:  "Mydomain.net"
+     }
+       puts test_basic.api("search", "mydomain.com", )
   end
  end
 
