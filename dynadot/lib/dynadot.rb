@@ -1,7 +1,6 @@
 module Dynadot
  class Api3
   include HTTParty
-  if de
   def initialize
    @api_key = DYNADOT_KEY if defined? DYNADOT_KEY
   end
